@@ -1,6 +1,6 @@
 # Multiple resolutions
 
-If you neet to resize one source image to one or more output images in different resolutions.
+If you need to resize one source image to one or more output images in different resolutions.
 
 ```js
 var gulp = require('gulp');
